@@ -4,7 +4,7 @@
     height: 2px;
     background-color: black;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 20%;
+    left: 20%;
     transform-origin: 100 100;
 }
